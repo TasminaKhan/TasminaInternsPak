@@ -15,6 +15,7 @@ class printclass {void check(String a[])
       {
       System.out.println("Friend "+(i+1)+("=")+a[i]);
       System.out.println("local");
+System.out.println("branch 1");
        } 
     
 }
