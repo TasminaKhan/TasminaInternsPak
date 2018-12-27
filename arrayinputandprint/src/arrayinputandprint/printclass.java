@@ -14,6 +14,7 @@ class printclass {void check(String a[])
    for(int i=0;i<=4;i++)
       {
       System.out.println("Friend "+(i+1)+("=")+a[i]);
+      System.out.println("local");
        } 
     
 }
